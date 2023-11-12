@@ -159,7 +159,7 @@ fun Anasayfa(navController: NavController) {
                                             Text(text = "${yemek.yemek_fiyat} $", fontSize = 20.sp, color = Color.DarkGray)
 
                                         }
-                                        Icon(painter = painterResource(id = R.drawable.arrow_resim), contentDescription = "")
+                                        Icon(painter = painterResource(id = R.drawable.arrow_resim), contentDescription = "Hello")
                                     }
                                 }
                             }
